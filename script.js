@@ -37,7 +37,7 @@ function loading_page() {
     delay: 2,
   });
   tl1.from("#page1", {
-    y: 1500,
+    y: 2000,
     opacity: 0,
     delay: 0.2,
     ease: "power4",
